@@ -6,12 +6,15 @@
     "lcl <lcl@qq.com>"
   ],
   "license": "ISC",
-  "homepage": "",
+  "homepage": "https://github.com/chuanlinlaile/demo",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "devDependencies": {
+    "bootstrap": "^3.3.7"
+  }
 }
